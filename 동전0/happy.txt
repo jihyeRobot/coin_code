@@ -1,5 +1,7 @@
 동전0
 
-11047
+그리디알고리즘
 
 https://www.acmicpc.net/problem/11047
+
+dfdfdfdf
